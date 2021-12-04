@@ -6,8 +6,8 @@ https://adventofcode.com/
 |---|---|---|
 |[01](https://adventofcode.com/2021/day/1)|Sonar Sweep|[sol01](/day01/sol01.ipynb)
 |[02](https://adventofcode.com/2021/day/2)|Dive!|[sol02](/day02/sol02.ipynb)
-|[03](https://adventofcode.com/2021/day/3)||
-|[04](https://adventofcode.com/2021/day/4)||
+|[03](https://adventofcode.com/2021/day/3)|Binary Diagnostic|[sol03](/day03/sol03.ipynb)
+|[04](https://adventofcode.com/2021/day/4)|Giant Squid|[sol04](/day04/sol04.ipynb)
 |[05](https://adventofcode.com/2021/day/5)||
 |[06](https://adventofcode.com/2021/day/6)||
 |[07](https://adventofcode.com/2021/day/7)||
