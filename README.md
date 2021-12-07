@@ -10,7 +10,7 @@ https://adventofcode.com/
 |[04](https://adventofcode.com/2021/day/4)|Giant Squid|[sol04](/day04/sol04.ipynb)
 |[05](https://adventofcode.com/2021/day/5)|Hydrothermal Venture|[sol05](/day05/sol05.ipynb)
 |[06](https://adventofcode.com/2021/day/6)|Lanternfish|[sol06](/day06/sol06.ipynb)
-|[07](https://adventofcode.com/2021/day/7)||
+|[07](https://adventofcode.com/2021/day/7)|The Treachery of Whales|[sol07](/day07/sol07.ipynb)
 |[08](https://adventofcode.com/2021/day/8)||
 |[09](https://adventofcode.com/2021/day/9)||
 |[10](https://adventofcode.com/2021/day/10)||
