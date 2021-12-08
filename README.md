@@ -11,7 +11,7 @@ https://adventofcode.com/
 |[05](https://adventofcode.com/2021/day/5)|Hydrothermal Venture|[sol05](/day05/sol05.ipynb)
 |[06](https://adventofcode.com/2021/day/6)|Lanternfish|[sol06](/day06/sol06.ipynb)
 |[07](https://adventofcode.com/2021/day/7)|The Treachery of Whales|[sol07](/day07/sol07.ipynb)
-|[08](https://adventofcode.com/2021/day/8)||
+|[08](https://adventofcode.com/2021/day/8)|Seven Segment Search|[sol08](/day08/sol08.ipynb)
 |[09](https://adventofcode.com/2021/day/9)||
 |[10](https://adventofcode.com/2021/day/10)||
 |[11](https://adventofcode.com/2021/day/11)||
