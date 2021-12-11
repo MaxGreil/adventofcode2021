@@ -12,9 +12,9 @@ https://adventofcode.com/
 |[06](https://adventofcode.com/2021/day/6)|Lanternfish|[sol06](/day06/sol06.ipynb)
 |[07](https://adventofcode.com/2021/day/7)|The Treachery of Whales|[sol07](/day07/sol07.ipynb)
 |[08](https://adventofcode.com/2021/day/8)|Seven Segment Search|[sol08](/day08/sol08.ipynb)
-|[09](https://adventofcode.com/2021/day/9)||
-|[10](https://adventofcode.com/2021/day/10)||
-|[11](https://adventofcode.com/2021/day/11)||
+|[09](https://adventofcode.com/2021/day/9)|Smoke Basin|[sol09](/day09/sol09.ipynb)
+|[10](https://adventofcode.com/2021/day/10)|Syntax Scoring|[sol10](/day10/sol10.ipynb)
+|[11](https://adventofcode.com/2021/day/11)|Dumbo Octopus|[sol11](/day11/sol11.ipynb)
 |[12](https://adventofcode.com/2021/day/12)||
 |[13](https://adventofcode.com/2021/day/13)||
 |[14](https://adventofcode.com/2021/day/14)||
